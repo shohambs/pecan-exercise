@@ -1,5 +1,3 @@
-A Generic host website
-
 ## Available Scripts
 
 In the project directory, you can run:
