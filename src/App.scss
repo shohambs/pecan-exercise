@@ -1,0 +1,21 @@
+.app {
+  display: grid;
+  grid-template-rows: 7% 1fr 15%;
+
+  > * {
+    display: flex;
+    flex-grow: 1;
+  }
+
+  // .header-navbar {
+  //   height: 7%;
+  // }
+
+  // #mainFrame {
+  //   height: 73%;
+  // }
+
+  // #footer {
+  //   height: 15%;
+  // }
+}

@@ -1,0 +1,17 @@
+.tree-node {
+  display: flex;
+  flex-direction: column;
+
+  .node-label {
+    justify-content: flex-start;
+  }
+
+  .error-text {
+    color: red;
+  }
+
+  .leaves {
+    margin-left: 100%;
+    width: 100%;
+  }
+}
